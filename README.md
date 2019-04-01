@@ -1,2 +1,4 @@
-# assets
-Public branding assets
+![Assets](./docs/assets/project-title.png)
+
+---
+
