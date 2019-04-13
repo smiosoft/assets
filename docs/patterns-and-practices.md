@@ -1,3 +1,3 @@
-## Links
+# Patterns and Practices
 
-[Repositories](./patterns/repositories.md)
+- [Repositories](./patterns/repositories.md)
