@@ -34,7 +34,9 @@
 - `src` - Any projects related to the source code
 - `tests` - Any projects related to testing
 
-## Header
+## README
+
+### Header
 
 ```markdown
 ![#project-title](#path-to-project-title)
@@ -50,6 +52,6 @@ The `#project-title` is required to be a relative path to an project banner, bas
 
 The `#project-badge` is optional. When used these should be listed one after another. 
 
-The `separator` must sit between the header section and the description.
+A separator must sit between the header section and the description.
 
 The `#project-description` is a short discription about the project that will follow the separator
