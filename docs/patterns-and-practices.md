@@ -1,3 +1,3 @@
 # Patterns and Practices
 
-- [Repositories](./patterns/repositories.md)
+- [Repositories](./guidelines/repositories.md)
