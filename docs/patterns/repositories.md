@@ -1,6 +1,31 @@
-# Contents
+# Repositories
 
-- [README](#readme)
+## Table of Contents
+
+1. [Structure](#structure)
+1. [README](#readme)
+   1. [Header](#header)
+
+## Structure
+
+```markdown
+.
+|   .gitattributes
+|   .gitignore
+|   LICENSE
+|   README.md
+|   {name}.sln
+|
++---build
++---docs
+|   \---assets
+|           project-title.png
+|
++---lib
++---samples
++---src
+\---test`
+```
 
 ## Header
 
