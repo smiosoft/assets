@@ -2,4 +2,14 @@
 
 ---
 
-A collection of smiosoft public branding assets to be used across the company, such as templates for company projects.
+*A collection of internal branding assets, used across all our projects.*
+
+## Templates
+
+Template assets are saved with the `.xcf` format, which is native to [GIMP](https://www.gimp.org/) image editing software.
+
+### [Project Title](./src/project-title)
+
+## Scalable Vector Graphicss
+
+### [Logo](./src/logo)
