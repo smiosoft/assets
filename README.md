@@ -1,4 +1,4 @@
-![Assets](./docs/assets/project-title.png)
+![Assets](./docs/.assets/project-title.png)
 
 ---
 
