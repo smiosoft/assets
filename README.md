@@ -6,8 +6,6 @@
 
 ## Templates
 
-Template assets are saved with the `.xcf` format, which is native to [GIMP](https://www.gimp.org/) image editing software.
-
 ### [Project Title](./src/project-title)
 
 ## Scalable Vector Graphics
