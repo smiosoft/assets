@@ -2,12 +2,12 @@
 
 ---
 
-*A collection of internal branding assets, used across all our projects.*
+_A collection of internal branding assets, used across all our projects._
 
 ## Templates
 
 ### [Project Title](./src/project-title)
 
-## Scalable Vector Graphics
+## SVG
 
 ### [Smiosoft Logo](./src/smiosoft-logo)
