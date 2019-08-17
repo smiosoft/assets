@@ -10,4 +10,4 @@
 
 ## Scalable Vector Graphics
 
-### [Logo](./src/smiosoft-logo)
+### [Smiosoft Logo](./src/smiosoft-logo)
