@@ -10,6 +10,6 @@ Template assets are saved with the `.xcf` format, which is native to [GIMP](http
 
 ### [Project Title](./src/project-title)
 
-## Scalable Vector Graphicss
+## Scalable Vector Graphics
 
-### [Logo](./src/logo)
+### [Logo](./src/smiosoft-logo)
