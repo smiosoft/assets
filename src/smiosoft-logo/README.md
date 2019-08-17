@@ -2,4 +2,4 @@
 
 ## Showcase
 
-![smiosoft-logo](../../docs/.assets/screenshots/smiosoft-logo.png)
+![smiosoft-logo](../../docs/.assets/smiosoft-logo/showcase.png)
