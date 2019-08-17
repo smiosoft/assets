@@ -1,15 +1,13 @@
-![Assets](./docs/assets/project-title.png)
+![Assets](./docs/.assets/project-title.png)
 
 ---
 
-*A collection of internal branding assets, used across all our projects.*
+_A collection of internal branding assets, used across all our projects._
 
 ## Templates
 
-Template assets are saved with the `.xcf` format, which is native to [GIMP](https://www.gimp.org/) image editing software.
-
 ### [Project Title](./src/project-title)
 
-## Scalable Vector Graphicss
+## SVG
 
-### [Logo](./src/logo)
+### [Smiosoft Logo](./src/smiosoft-logo)
