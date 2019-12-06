@@ -1,6 +1,6 @@
 # Project Title Template
 
-This template is saved as `.xcf` format, which is native to [GIMP](https://www.gimp.org/) image editing software.
+This template is saved as `.fig` format, which is native to [Figma](https://www.figma.com/), a browser-based UI and UX design application.
 
 ## Showcase
 
