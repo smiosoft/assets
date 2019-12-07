@@ -1,15 +1,14 @@
-![Assets](./docs/.assets/project-title.png)
-
----
+# Assets
 
 _A collection of internal branding assets, used across all our projects._
 
+![Assets](./docs/.assets/project-title.png)
+
 ## Templates
 
-### [Icon](./src/icon)
+- [Icon](./src/icon)
+- [Project Title](./src/project-title)
 
-### [Project Title](./src/project-title)
+## Scalable Vector Graphics
 
-## SVG
-
-### [Smiosoft Logo](./src/smiosoft-logo)
+- [Smiosoft Logo](./src/smiosoft-logo)
