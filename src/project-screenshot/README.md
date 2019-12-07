@@ -10,10 +10,6 @@ This template is saved as `.fig` format, which is native to [Figma](https://www.
 
 The project screenshot image (`1760px x >260px`) can be found referenced in a repository `README`, alongside a matching [project-title](../project-title). The height of this image will scale to the screenshot content.
 
-### Pages
-
-![pages](./.assets/pages.png)
-
 ### Layers
 
 ![layers](./.assets/layers.png)
