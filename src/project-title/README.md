@@ -1,27 +1,33 @@
 # Project Title Template
 
-This template is saved as `.xcf` format, which is native to [GIMP](https://www.gimp.org/) image editing software.
+This template is saved as `.fig` format, which is native to [Figma](https://www.figma.com/), a browser-based UI and UX design application.
 
 ## Showcase
 
-![project-title](../../docs/.assets/project-title/showcase.png)
+![showcase](./.assets/showcase.png)
 
 ## Usage
 
+The project title image (`1760px x 520px`) can be found referenced at the top of a repository `README`.
+
 ### Layers
 
-![layers](../../docs/.assets/project-title/layers.png)
-
-- `green` - no action required
-- `orange` - action required
-- `red` - do not include these layers when exporting
+![layers](./.assets/layers.png)
 
 ### Editing
 
-- Use the `_placeholder--logo` layer as a guide to insert a project logo (`150px by 150px`)
-- Use the colour picker tool to pick out the primary/dominant colour from the project logo and fill `shape--diamond`
-- Update the text for `project-title` and `project-description` as appropriate
+#### Icon
+
+Use the `project-icon` frame layer as a guide to position a project icon (`152px x 152px`). Ensure to remove/hide the `Fill` property afterwards.
+
+#### Local Styles
+
+Update the `Primary Border` local style to the primary/dominant colour from the project icon. This will update the stroke colour of the `diamond` shape layer.
+
+![local-styles](./.assets/local-styles.png)
 
 ### Exporting
 
-Ensure all the `red` layers are hidden and export as `.png` with transparency.
+Select the `project-title` root frame layer and ensure that the `Fill` property is hidden. Use the `Export` section at the bottom, with `PNG` format selected.
+
+![export](./.assets/export.png)
