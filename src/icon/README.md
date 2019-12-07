@@ -4,7 +4,7 @@ This template is saved as `.svg` format, and includes metadata for [Inkscape](ht
 
 ## Showcase
 
-![icon](../../docs/.assets/icon/showcase.png)
+![icon](./.assets/showcase.png)
 
 ## Usage
 
