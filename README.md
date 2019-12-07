@@ -1,6 +1,6 @@
 # Assets
 
-_A collection of internal branding assets, used across all our projects._
+_A collection of internal branding assets and templates used across all our projects._
 
 ![Assets](./docs/.assets/project-title.png)
 
