@@ -7,6 +7,7 @@ _A collection of internal branding assets, used across all our projects._
 ## Templates
 
 - [Icon](./src/icon)
+- [Project Screenshot](./src/project-screenshot)
 - [Project Title](./src/project-title)
 
 ## Scalable Vector Graphics
