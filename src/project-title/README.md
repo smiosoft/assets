@@ -8,6 +8,8 @@ This template is saved as `.fig` format, which is native to [Figma](https://www.
 
 ## Usage
 
+The project title image (`1760x520`) can be found referenced at the top of a repository `README`.
+
 ### Layers
 
 ![layers](../../docs/.assets/project-title/layers.png)
@@ -16,11 +18,11 @@ This template is saved as `.fig` format, which is native to [Figma](https://www.
 
 #### Icon
 
-Use the `project-icon` frame layer as a guide to insert a project logo (`152px by 152px`).
+Use the `project-icon` frame layer as a guide to position a project icon (`152x152`). Ensure to remove/hide the `Fill` property afterwards.
 
 #### Local Styles
 
-Update the `Primary Border` local style to the primary/dominant colour from the project logo.
+Update the `Primary Border` local style to the primary/dominant colour from the project logo. This will update the stroke colour of the `diamond` shape layer.
 
 ![local-styles](../../docs/.assets/project-title/local-styles.png)
 
