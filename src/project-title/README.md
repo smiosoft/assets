@@ -4,7 +4,7 @@ This template is saved as `.fig` format, which is native to [Figma](https://www.
 
 ## Showcase
 
-![project-title](../../docs/.assets/project-title/showcase.png)
+![showcase](../../docs/.assets/project-title/showcase.png)
 
 ## Usage
 
@@ -12,16 +12,20 @@ This template is saved as `.fig` format, which is native to [Figma](https://www.
 
 ![layers](../../docs/.assets/project-title/layers.png)
 
-- `green` - no action required
-- `orange` - action required
-- `red` - do not include these layers when exporting
-
 ### Editing
 
-- Use the `_placeholder--logo` layer as a guide to insert a project logo (`150px by 150px`)
-- Use the colour picker tool to pick out the primary/dominant colour from the project logo and fill `shape--diamond`
-- Update the text for `project-title` and `project-description` as appropriate
+#### Icon
+
+Use the `project-icon` frame layer as a guide to insert a project logo (`152px by 152px`).
+
+#### Local Styles
+
+Update the `Primary Border` local style to the primary/dominant colour from the project logo.
+
+![local-styles](../../docs/.assets/project-title/local-styles.png)
 
 ### Exporting
 
-Ensure all the `red` layers are hidden and export as `.png` with transparency.
+Select the `project-title` root frame layer and ensure that the `Fill` property is hidden. Use the `Export` section at the bottom, with `PNG` format selected.
+
+![export](../../docs/.assets/project-title/export.png)
