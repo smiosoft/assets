@@ -22,4 +22,4 @@ Update the `Primary` local style to the primary/dominant colour from the project
 
 ### Exporting
 
-Select the `project-title` root frame layer and ensure that the `Fill` property is hidden. Use the `Export` section at the bottom, with `PNG` format selected.
+Select the `project-title` root frame layer, and ensure that the `Fill` property is hidden. Use the `Export` section at the bottom, with `PNG` format selected.
