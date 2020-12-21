@@ -20,6 +20,10 @@ Use the `project-icon` layer to update the project icon (`128px x 128px`).
 
 Update the `Primary` local style to the primary/dominant colour from the project icon.
 
+#### Theme Preview
+
+Use the `github-preview` page to examine how the asset looks on different themes.
+
 ### Exporting
 
 Select the `project-title` root frame layer, and ensure that the `Fill` property is hidden. Use the `Export` section at the bottom, with `PNG` format selected.
