@@ -8,26 +8,22 @@ This template is saved as `.fig` format, which is native to [Figma](https://www.
 
 ## Usage
 
-The project title image (`1760px x 520px`) can be found referenced at the top of a repository `README`.
-
-### Layers
-
-![layers](./.assets/layers.png)
+The project title image can be found referenced at the top of a repository `README`.
 
 ### Editing
 
 #### Icon
 
-Use the `project-icon` frame layer as a guide to position a project icon (`152px x 152px`). Ensure to remove/hide the `Fill` property afterwards.
+Use the `project-icon` layer to update the project icon (`128px x 128px`).
 
 #### Local Styles
 
-Update the `Primary Border` local style to the primary/dominant colour from the project icon. This will update the stroke colour of the `diamond` shape layer.
+Update the `Primary` local style to the primary/dominant colour from the project icon.
 
-![local-styles](./.assets/local-styles.png)
+#### Theme Preview
+
+Use the `github-preview` page to examine how the asset looks on different themes.
 
 ### Exporting
 
-Select the `project-title` root frame layer and ensure that the `Fill` property is hidden. Use the `Export` section at the bottom, with `PNG` format selected.
-
-![export](./.assets/export.png)
+Select the `project-title` root frame layer, and ensure that the `Fill` property is hidden. Use the `Export` section at the bottom, with `PNG` format selected.

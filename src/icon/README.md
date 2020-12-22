@@ -10,8 +10,10 @@ This template is saved as `.svg` format, and includes metadata for [Inkscape](ht
 
 ### Editing
 
-- Update the `id` attribute for appropriate layers/nodes
+#### Attributes
+
+Update the `id` attribute for appropriate layers/nodes
 
 ### Exporting
 
-Ensure to export as `Plain SVG`, without any of the editor metadata. Additionally, use [svgomg](https://jakearchibald.github.io/svgomg/) to optimise the icon.
+Ensure to export as `Plain SVG`, without any of the editor metadata. Additionally, use [svgomg](https://jakearchibald.github.io/svgomg/) to further optimise the icon.
