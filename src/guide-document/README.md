@@ -14,7 +14,7 @@ The guide document template is used to create guide style documents which have a
 
 #### Content
 
-Use the `content` layer to display the guide content, and ensure to seperate in `section` layers as appropriate.
+Use the `content` layer to display the guide content, and ensure to seperate with `section` layers as appropriate.
 
 Any visual material, especially anything that is intended to be exported and displayed in external documents (e.g README.md) needs to be positioned in a card. This card has a solid fill colour, and is positioned on a semi-transparent background - this is inteded to support being displayed on any page, with any colour/theme.
 
