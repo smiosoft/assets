@@ -1,6 +1,6 @@
 # Icon Template
 
-This template is saved as `.svg` format, and includes metadata for [Inkscape](https://inkscape.org/) vector graphics editing software.
+This template is saved as a `.svg` format, and includes metadata for [Inkscape](https://inkscape.org/) vector graphics editing software.
 
 ## Showcase
 
