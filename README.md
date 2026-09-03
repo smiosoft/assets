@@ -1,8 +1,10 @@
-# Assets
+# assets
 
-_A collection of internal branding assets and templates used across all our projects._
+_Branding assets and templates shared by every Smiosoft project; logos, icons and project title images._
 
-![Assets](./docs/.assets/project-title.png)
+![assets](./docs/.assets/project-title.png)
+
+---
 
 ## Templates
 
